@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .header{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 3.2rem; 
+    align-items: center;
+    font-size: 20px;
+  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+   input {
+    border-radius: 5%;
+    margin-right: 10px;
+    padding: 5px 10px ;
+
+   }
+
+
+
+   .buttonheader{
+    background-color: grey;
+    color: white;
+    padding: 5px 10px ;
+   }
+ .sec{
+    background-image: url(cineshort_app_short_movie_red_curtain.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+}
+ .container{
+    background-color: rgb(70, 68, 68);
+    height: 120vh;
+    width: 50%;
+    
+    
+ }
+ .card{
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow:  5px 10px rgb(138, 136, 136);
+    
+
+   
+ }
+.btn{
+    margin-top: 20px ;
+    padding: 10px;
+}
+.card-title{
+    padding-top: 10px ;
+    font-size: 20px;
+}
+
+
+ 
+
