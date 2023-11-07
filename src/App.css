@@ -34,19 +34,19 @@ a{
     background-image: url(cineshort_app_short_movie_red_curtain.webp);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 120vh;
+  
 }
  .container{
     background-color: rgb(70, 68, 68);
-    height: 120vh;
-    width: 50%;
+   
+    width: 80%;
     
     
  }
  .card{
     margin: 10px;
     box-sizing: border-box;
-    box-shadow:  5px 10px rgb(138, 136, 136);
+    
     
 
    
@@ -54,6 +54,7 @@ a{
 .btn{
     margin-top: 20px ;
     padding: 10px;
+    margin-bottom: 0;
 }
 .card-title{
     padding-top: 10px ;
